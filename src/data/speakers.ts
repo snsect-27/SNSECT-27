@@ -12,8 +12,8 @@ export interface KeynoteSpeaker {
 }
 
 export const DISTINGUISHED_SPEAKER: KeynoteSpeaker = {
-  id: "dr-manimuthu-arulmozhi",
-  name: "Dr. Manimuthu Arulmozhi",
+  id: "dr-manimuthu-arunmozhi",
+  name: "Dr. Manimuthu Arunmozhi",
   salutation: "Distinguished Speaker",
   role: "Faculty Researcher & Academician",
   field: "Cybersecurity and Business Analytics",
