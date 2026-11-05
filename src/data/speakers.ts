@@ -20,7 +20,7 @@ export const DISTINGUISHED_SPEAKER: KeynoteSpeaker = {
   institution: "Aston University",
   location: "Birmingham",
   country: "United Kingdom",
-  bio: "Dr. Manimuthu Arulmozhi is an internationally recognized academic and researcher in the Department of Cybersecurity and Business Analytics at Aston University, United Kingdom. Dr. Arulmozhi specializes in resilient digital architectures, cybersecurity frameworks, and data analytics for secure digital systems.",
+  bio: "Dr. Manimuthu Arunmozhi is an internationally recognized academic and researcher in the Department of Cybersecurity and Business Analytics at Aston University, United Kingdom. Dr. Arulmozhi specializes in resilient digital architectures, cybersecurity frameworks, and data analytics for secure digital systems.",
   expertise: [
     "Cybersecurity and Data Privacy",
     "Business Analytics & Intelligence",
